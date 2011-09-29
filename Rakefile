@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "lollipop"
   gem.homepage = "http://github.com/kasima/lollipop"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{Gem squatting}
+  gem.description = %Q{I promise I will do something useful with this.}
   gem.email = "kasima@gmail.com"
   gem.authors = ["Kasima Tharnpipitchai"]
   # dependencies defined in Gemfile
