@@ -1,9 +1,0 @@
-= lollipop
-
-Gem squatting.
-
-== Copyright
-
-Copyright (c) 2011 Kasima Tharnpipitchai. See LICENSE.txt for
-further details.
-
